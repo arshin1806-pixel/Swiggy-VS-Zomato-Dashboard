@@ -41,7 +41,7 @@ Power BI dashboard for comparing Swiggy and Zomato based on sales, orders, custo
 
 ## Dashboard Preview
 
-[View Live Dashboard](https://your-actual-dashboard-link-here)
+[![Swiggy vs Zomato Dashboard](Swiggy%20VS%20Zomato%20Dashboard%20Preview.png)](swiggy vs zomato dashboard.pbix)
 
 ## 📊 Power BI Dashboard Preview
 
