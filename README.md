@@ -38,3 +38,7 @@ Arshin Mansuri
 
 This project provides a comparative view of Swiggy and Zomato and demonstrates the use of Power BI for data analysis and business intelligence.# Swiggy-VS-Zomato-Dashboard
 Power BI dashboard for comparing Swiggy and Zomato based on sales, orders, customer behaviour, ratings and business performance.
+
+## Dashboard Preview
+
+![Swiggy vs Zomato Dashboard](dashboard-preview.png)
